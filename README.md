@@ -1,4 +1,20 @@
-<h2 align="left">Techs</h2>
+<h2 align="left">💻 Pedro Paulo</h2>
+
+###
+
+<p align="left">Meu nome é Pedro e atualmente estou estudando Python para me tornar um desenvolvedor Back-End. Pretendo, no futuro, me aprofundar na linguagem Java, onde desejo permanecer, mas ainda há um longo caminho a percorrer.</p>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/pedrozunzarren" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">🤖 Linguagens e Tecnologias</h2>
 
 ###
 
@@ -10,23 +26,9 @@
 
 ###
 
-<h2 align="left">Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroZunzarren&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="149" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroZunzarren&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroZunzarren&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-
-###
-
 <div align="left">
-  <a href="www.linkedin.com/in/pedrozunzarren/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroZunzarren&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
 ###
